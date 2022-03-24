@@ -1,6 +1,6 @@
 ![desk](/desk.png?raw=true "optional")
 
-<h2>Hey There!,<h2> 
+<h2>Hey There!<h2> 
   
 <p>I am a Veteran and a Software Developer living in the Pacific North West! I am currently learning backend development and learning Solidity in my freetime to make Smart Contracts for web3 in the future. </p>
 
