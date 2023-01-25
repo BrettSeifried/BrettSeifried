@@ -37,9 +37,9 @@ Email: <a href = "mailto: seifriedbrett@gmail.com">SeifriedBrett@gmail.com</a>
 <br>
 LinkedIn: <a href = "https://www.linkedin.com/in/brett-seifried/">linkedin.com/in/brett-seifried</a>
 <br>
-Twitter: <a href = "https://twitter.com/DevBrettford"> twitter.com/BrettfordGaming</a>
+Twitter: <a href = "https://twitter.com/DevBrettford"> twitter.com/DevBrettford</a>
 <p align="left">
-<a href="https://twitter.com/brettfordgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brettfordgaming" height="30" width="40" /></a>
+<a href="https://twitter.com/DevBrettford" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brettfordgaming" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brett-seifried" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brett-seifried" height="30" width="40" /></a>
  <a href="mailto: seifriedbrett@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="seifriedbrett@gmail.com" width="40" /></a>
 </p>
